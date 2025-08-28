@@ -45,7 +45,7 @@
           <input type="checkbox" value="gatos" name="animal">Gatos
         </label>
       </fieldset> 
-      <input type="submit" id="submit" onclick="alert('Sending Form')">
+      <input type="submit" id="submit" onclick="event.preventDefault(); alert('Sending Form')">
     </form>
   </body>
 </html>
