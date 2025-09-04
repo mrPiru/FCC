@@ -1,4 +1,4 @@
-# Diario de Aprendizaje de freeCodeCamp 🚀
+# Mi repositorio de aprendizaje 🚀
 
 Bienvenido a mi repositorio, donde voy subiendo todos los ejercicios, retos y proyectos que voy completando mientras aprendo programación con [freeCodeCamp](https://www.freecodecamp.org/).
 
