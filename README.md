@@ -14,7 +14,7 @@ Este repositorio me sirve para:
 
 Voy creando una **carpeta por cada curso realizado**, donde guardo mis soluciones, ejercicios y proyectos correspondientes a ese curso.
 
----
+
 
 ¡Gracias por visitar mi repositorio! Espero que sirva también para motivarte a aprender y crear. 💻✨
 
