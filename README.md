@@ -18,11 +18,14 @@ Voy creando una **carpeta por cada curso realizado**, donde guardo mis solucione
 
 ¡Gracias por visitar mi repositorio! Espero que sirva también para motivarte a aprender y crear. 💻✨
 
-[                     _            
+```
+                      _            
                      (_)           
  _ __ ___  _ __ _ __  _ _ __ _   _ 
 | '_ ` _ \| '__| '_ \| | '__| | | |
 | | | | | | |_ | |_) | | |  | |_| |
 |_| |_| |_|_(_)| .__/|_|_|   \__,_|
                | |                 
-               |_|                 ](https://patorjk.com/software/taag/?p=display&f=Doom&t=mr.piru&x=none).
+               |_|
+
+´´´
